@@ -1,4 +1,3 @@
 # JLAKLR.github.io
 
-AKOLLOR Jean-Livio
-HURET Julien
+Binôme : AKOLLOR Jean-Livio/HURET Julien
